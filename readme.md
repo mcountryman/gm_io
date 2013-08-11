@@ -10,12 +10,12 @@ Unlimited Garry's Mod file access!
 ###Release
 
 #####Linux
-* Client - [gmcl_io_linux.so](http://www.google.com)
-* Server - [gmsv_io_linux.so](http://www.google.com)
+* Client - todo
+* Server - todo
 
 #####Windows
-* Client - [gmcl_io_win32.dll](http://www.google.com)
-* Server - [gmsv_io_win32.dll](http://www.google.com)
+* Client - [gmcl_io_win32.dll](https://github.com/marvincountryman/gm_io/raw/master/bin/windows/release/gmcl_io_win32.dll)
+* Server - [gmsv_io_win32.dll](https://github.com/marvincountryman/gm_io/raw/master/bin/windows/release/gmsv_io_win32.dll)
 
 ###Reference
 
